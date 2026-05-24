@@ -2,7 +2,7 @@
 
 Estou estudando programação e tecnologia da informação, pois sempre tive uma paixão pela área, e estou em busca do meu primeiro emprego na área, aqui em meu github estão separados meus principais projetos e meu progresso na programação, sinta-se livre para ver e analisar meu progresso e evolução! :)
 
-🔭 Atualmente estou trabalhando em meu projeto [st.dev](https://github.com/guistumpf/st.dev) que usa tecnologias como next.js, css, javascript e react.
+🔭 Atualmente estou estudando sql e next.js!
 
 💬 Entre em contato comigo nos links abaixo!
 
