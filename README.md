@@ -1,4 +1,4 @@
-## Olá, meu nome é João!
+## Olá!
 
 Estou estudando programação e tecnologia da informação, pois sempre tive uma paixão pela área, e estou em busca do meu primeiro emprego na área, aqui em meu github estão separados meus principais projetos e meu progresso na programação, sinta-se livre para ver e analisar meu progresso e evolução! :)
 
@@ -6,7 +6,6 @@ Estou estudando programação e tecnologia da informação, pois sempre tive uma
 
 💬 Entre em contato comigo nos links abaixo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20blue%20?style=for-the-badge&color=%23007ec6)](https://www.linkedin.com/in/joão-fernandes-5954733b4)
 [![Proton](https://img.shields.io/badge/Email%20-%20purple?style=for-the-badge&logo=Proton)](mailto:guist.clinking518@passinbox.com)
 [![Vercel](https://img.shields.io/badge/Vercel%20-%20black?style=for-the-badge&logo=Vercel&logoColor=%23ffff)](https://vercel.com/guistumpf)
 
